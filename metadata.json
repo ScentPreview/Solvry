@@ -1,0 +1,6 @@
+{
+  "name": "Solvry",
+  "description": "A sleek, minimalist dark-mode Coming Soon launch page for Solvry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
