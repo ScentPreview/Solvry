@@ -72,7 +72,8 @@ export default function SolvryLogo({
 
       {showText && (
         <span 
-          className="text-lg sm:text-xl font-extrabold tracking-[0.4em] uppercase font-sans text-[#F1F5F9]"
+          data-value="SOLVRY"
+          className="glitch-hover-target text-lg sm:text-xl font-extrabold tracking-[0.4em] uppercase font-sans text-[#F1F5F9] hover:text-white"
         >
           SOLVRY
         </span>
